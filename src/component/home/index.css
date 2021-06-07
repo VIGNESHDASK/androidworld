@@ -1,0 +1,42 @@
+.hel{
+    margin: 150px;
+    font-weight: bolder;
+}
+.index{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    background-color:#FF6700;
+    font-size: 30px;
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-weight: 200; 
+    
+    
+   
+   
+}
+.bg-img{
+    max-width: 100%;
+}
+.top-section{
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+   
+}
+.button{
+    margin: left 10px;;
+    margin-left: 80%;
+}
+.index1{
+    display: flex;
+   
+}
+.indexs{
+margin-left: 10px;
+margin-bottom: 10px;
+background-color: #7ab4c4;
+}

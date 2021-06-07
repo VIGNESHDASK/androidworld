@@ -1,0 +1,21 @@
+.disku{
+    margin: 100px;
+}
+.h22{
+    margin-bottom: 30px;
+    font-style:normal;
+    
+
+}
+.h222{
+margin: 20px;
+min-height: 50px;
+font-style:oblique;
+}
+.btn{
+    position: fixed;
+    bottom: 75%;
+ 
+    left: 45%;
+    border: 3px solid #73AD21;
+}

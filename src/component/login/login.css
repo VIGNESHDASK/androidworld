@@ -1,0 +1,59 @@
+h1{
+    font-weight: bold;
+    
+}
+.login1{
+    margin:30px;
+    padding-top: 30px;
+}
+.app-container{
+color: black;
+text-align: center;
+margin: 50px;
+min-height: 200;
+background-color:#e6e6e6;
+margin-left: 250px;
+margin-right: 250px;
+margin-bottom: 500px;
+margin-top: 100px;
+display: flex;
+}
+.inputSection{
+    margin: 30px;
+}
+.pass{
+    padding-left: 50px;
+}
+p{
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.sub-container{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+.pass10{
+    
+}
+.input-sec{
+    object-fit: contain;
+    margin-right: 10px;
+    margin-left: 10%;
+    margin-top: 50px;
+
+margin-bottom: 50px;
+padding-top: 50px;
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 70px;
+    background-color: #ccffcc;
+}
+
+.dragon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+    
+}

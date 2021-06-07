@@ -1,0 +1,27 @@
+.contact{
+    display: flex;
+}
+.h11{
+    margin-bottom: 30px;
+    background-color: #fff;
+}
+.contact1{
+    background-color: #b3b3ff;
+  
+    margin-right: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.contact2{
+    background-color: #FF6700;
+   
+  
+    padding-left: 200px;
+    padding-right: 100%;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    
+}

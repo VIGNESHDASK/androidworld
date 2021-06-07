@@ -1,0 +1,32 @@
+[
+        {"id":1,
+        "name":"samsung",
+        "model":"A50s",
+        "price":15000,
+        "imege":"/imege/a50s.jpg"
+        },
+        {"id":2,
+        "name":"nokia",
+        "model":"a3",
+        "price":11000,
+        "imege":"/imege/nokia.jpg"
+       },
+       {"id":3,
+        "name":"iphone",
+        "model":"12pro",
+        "price":45000,
+        "imege":"/imege/iphone.jpg"
+       },
+       {"id":4,
+        "name":"oneplus",
+        "model":"7T",
+        "price":28000,
+        "imege":"/imege/oneplus7.jpg"
+       },
+        {"id":5,
+        "name":"sony",
+        "model":"xperiaA30",
+        "price":33000,
+        "imege":"/imege/sony.jpg"
+       }
+]
